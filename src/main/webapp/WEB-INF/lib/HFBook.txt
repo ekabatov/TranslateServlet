@@ -1,0 +1,97 @@
+88
+ability - способность
+able - возможность
+above - выше
+advantage - преимущество
+advice - советы
+allocate - выделить
+allow - разрешить
+amount - сумма
+approach - подход
+appropriate - уместно
+assume - предположим
+behave - вести себя
+below - ниже
+brain-dead - мозг мертв
+capability - возможность
+care - забота
+carriage - перевозки
+certainly - конечно
+chunk - ломоть
+competion - конкуренция
+computation - расчет
+concern - беспокойство
+confuse - путаете
+conside - учитывая
+conversation - разговор
+crucial - важно
+decent - приличный
+decide - решить
+define - определить
+depend - зависит
+describe - описать
+determine - определить
+doubt - сомневаюсь
+dozen - десяток
+dumb - стремно
+each - каждый
+either - либо
+eligible - право
+enough - достаточно
+entire - весь
+even - даже
+exercise - упражнения
+expect - ожидать
+explicity - явно
+expose - разоблачить
+familiar - знакомы
+figures out - фигурки из
+flexible - гибкий
+force - силу
+guess - думаю
+instead - вместо
+introduce - ввести
+invoke - вызвать
+issue - вопрос
+juicier - сочнее
+kind - вид
+least - крайней мере
+let - давайте
+map - сопоставить
+mean - значит
+meant - имел в виду
+often - часто
+overhead - накладные
+pass - пройти
+pesky - докучливый
+plain - равнина
+plain old - обычный старый
+probably - наверное
+prone - склонен
+pulled out - вытащил
+relate - касаются
+rely - полагаться
+represent - представляют
+response - ответ
+safety - безопасность
+satisfies - удовлетворяет
+scalable - масштабируемый
+screw - винт
+serve - служить
+several - несколько
+skim - облегченные
+sophisticate - скептичность
+stuck - застрял
+submission - представления
+such - такие
+thing - дело
+those - те
+thought - думал
+throughout - по всей
+tough - жесткая
+tucked away - спрятан
+unless - если
+voila - вуаля
+wardrobe - шкаф
+whip up - расшевелить
+yet - еще

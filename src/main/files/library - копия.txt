@@ -1,0 +1,25 @@
+behave - вести себя
+below - ниже
+care - забота
+chunk - чанк
+competion - конкуренция
+conversation - разговор
+describe - описать
+dozen - десяток
+either - либо
+expect - ожидать
+explicity - явно
+expose - разоблачить
+familiar - знакомы
+flexible - гибкий
+goal - цель
+least - крайней мере
+let - давайте
+often - часто
+probably - вероятно
+request - запрос
+scalable - масштабируемый
+several - несколько
+those - те
+throughout - по всей
+unless - если
