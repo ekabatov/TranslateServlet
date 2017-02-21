@@ -1,3 +1,7 @@
 1
 description - описание
+force - силу
+life-decisions - жизнь-решений
+mean - значит
+minor - незначительные
 provide - обеспечить

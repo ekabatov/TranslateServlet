@@ -1,4 +1,4 @@
-88
+99
 ability - способность
 able - возможность
 above - выше
@@ -81,6 +81,7 @@ serve - служить
 several - несколько
 skim - облегченные
 sophisticate - скептичность
+standalone - автономное
 stuck - застрял
 submission - представления
 such - такие
