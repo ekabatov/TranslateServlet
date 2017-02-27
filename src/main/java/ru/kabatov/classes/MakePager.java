@@ -20,7 +20,7 @@ public class MakePager {
         /**
          * Number of rows in the table
          */
-        int k = 32;
+        int k = 48;
         StringBuilder sb = new StringBuilder();
         ArrayList<String> keys = new ArrayList<>(map.keySet());
         ArrayList<String> values = new ArrayList<>(map.values());

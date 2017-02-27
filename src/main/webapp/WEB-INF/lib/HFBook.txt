@@ -1,4 +1,4 @@
-99
+109
 ability - способность
 able - возможность
 above - выше
@@ -12,6 +12,7 @@ appropriate - уместно
 assume - предположим
 behave - вести себя
 below - ниже
+borrow - взять
 brain-dead - мозг мертв
 capability - возможность
 care - забота
@@ -49,14 +50,18 @@ figures out - фигурки из
 flexible - гибкий
 force - силу
 guess - думаю
+incorporate - включить
 instead - вместо
 introduce - ввести
 invoke - вызвать
+involve - привлекать
 issue - вопрос
+iterative - итерационный
 juicier - сочнее
 kind - вид
 least - крайней мере
 let - давайте
+mangle - мангл
 map - сопоставить
 mean - значит
 meant - имел в виду
@@ -69,6 +74,7 @@ plain old - обычный старый
 probably - наверное
 prone - склонен
 pulled out - вытащил
+regard - связи
 relate - касаются
 rely - полагаться
 represent - представляют
@@ -89,9 +95,11 @@ thing - дело
 those - те
 thought - думал
 throughout - по всей
+tiny - крошечные
 tough - жесткая
 tucked away - спрятан
 unless - если
 wardrobe - шкаф
 whip up - расшевелить
+whole - весь
 yet - еще
