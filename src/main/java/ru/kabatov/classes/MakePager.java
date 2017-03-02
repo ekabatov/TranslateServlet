@@ -21,6 +21,10 @@ public class MakePager {
          * Number of rows in the table
          */
         int k = 48;
+        /**
+         * Number of columns
+         */
+        int c = 3;
         StringBuilder sb = new StringBuilder();
         ArrayList<String> keys = new ArrayList<>(map.keySet());
         ArrayList<String> values = new ArrayList<>(map.values());
@@ -33,10 +37,10 @@ public class MakePager {
          * Usually in the table is 32 rows and 4 columns
          * if this is not enough in the table add for a few rows
          */
-        if (sz > k*4) {
-            int a = sz - k*4 + 4;
-            a /= 4;
-            k=4+a;
+        if (sz > k*c) {
+            int a = sz - k*c + c;
+            a /= c;
+            k=c+a;
         }
         k=sz<k?sz:k;
         /**

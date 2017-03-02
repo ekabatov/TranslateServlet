@@ -1,4 +1,4 @@
-109
+134
 ability - способность
 able - возможность
 above - выше
@@ -17,6 +17,8 @@ brain-dead - мозг мертв
 capability - возможность
 care - забота
 carriage - перевозки
+carries - несет
+cause - причиной
 certainly - конечно
 chunk - ломоть
 competion - конкуренция
@@ -38,6 +40,7 @@ dumb - стремно
 each - каждый
 either - либо
 eligible - право
+enhancing - повышение
 enough - достаточно
 entire - весь
 even - даже
@@ -51,6 +54,7 @@ flexible - гибкий
 force - силу
 guess - думаю
 incorporate - включить
+instant - мгновенный
 instead - вместо
 introduce - ввести
 invoke - вызвать
@@ -73,12 +77,14 @@ plain - равнина
 plain old - обычный старый
 probably - наверное
 prone - склонен
+provide - обеспечить
 pulled out - вытащил
 regard - связи
 relate - касаются
 rely - полагаться
 represent - представляют
 response - ответ
+robust - надежные
 safety - безопасность
 satisfies - удовлетворяет
 scalable - масштабируемый
@@ -96,10 +102,12 @@ those - те
 thought - думал
 throughout - по всей
 tiny - крошечные
+toast - тост
 tough - жесткая
 tucked away - спрятан
 unless - если
 wardrobe - шкаф
+whichever - в зависимости от того
 whip up - расшевелить
 whole - весь
 yet - еще
