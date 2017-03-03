@@ -1,4 +1,4 @@
-134
+136
 ability - способность
 able - возможность
 above - выше
@@ -69,6 +69,7 @@ mangle - мангл
 map - сопоставить
 mean - значит
 meant - имел в виду
+might - может
 often - часто
 overhead - накладные
 pass - пройти
@@ -107,6 +108,8 @@ tough - жесткая
 tucked away - спрятан
 unless - если
 wardrobe - шкаф
+whenever - всякий раз, когда
+whether - ли
 whichever - в зависимости от того
 whip up - расшевелить
 whole - весь
