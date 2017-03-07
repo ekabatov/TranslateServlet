@@ -1,4 +1,4 @@
-136
+145
 ability - способность
 able - возможность
 above - выше
@@ -14,6 +14,7 @@ behave - вести себя
 below - ниже
 borrow - взять
 brain-dead - мозг мертв
+brief - краткая
 capability - возможность
 care - забота
 carriage - перевозки
@@ -54,6 +55,7 @@ flexible - гибкий
 force - силу
 guess - думаю
 incorporate - включить
+inheritance - наследование
 instant - мгновенный
 instead - вместо
 introduce - ввести
@@ -67,6 +69,7 @@ least - крайней мере
 let - давайте
 mangle - мангл
 map - сопоставить
+matter - вопрос
 mean - значит
 meant - имел в виду
 might - может
@@ -78,6 +81,7 @@ plain - равнина
 plain old - обычный старый
 probably - наверное
 prone - склонен
+proud - горжусь
 provide - обеспечить
 pulled out - вытащил
 regard - связи
