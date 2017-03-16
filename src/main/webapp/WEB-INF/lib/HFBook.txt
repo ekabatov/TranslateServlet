@@ -1,4 +1,4 @@
-145
+161
 ability - способность
 able - возможность
 above - выше
@@ -12,6 +12,7 @@ appropriate - уместно
 assume - предположим
 behave - вести себя
 below - ниже
+beside - рядом
 borrow - взять
 brain-dead - мозг мертв
 brief - краткая
@@ -54,6 +55,7 @@ figures out - фигурки из
 flexible - гибкий
 force - силу
 guess - думаю
+idempotent - идемпотентом
 incorporate - включить
 inheritance - наследование
 instant - мгновенный
@@ -73,6 +75,7 @@ matter - вопрос
 mean - значит
 meant - имел в виду
 might - может
+obvious - очевидно
 often - часто
 overhead - накладные
 pass - пройти
@@ -102,6 +105,7 @@ standalone - автономное
 stuck - застрял
 submission - представления
 such - такие
+suppose - предположим
 thing - дело
 those - те
 thought - думал
