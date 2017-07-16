@@ -20,7 +20,7 @@ public class MakePager {
         /**
          * Number of rows in the table
          */
-        int k = 48;
+        int k = 32;
         /**
          * Number of columns
          */
