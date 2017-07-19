@@ -1,1 +1,39 @@
-28
+31
+Although - Хотя
+assume - предположим
+avoid - избежать
+beg - прошу
+behave - вести себя
+below - ниже
+benefit - выгода
+boilerplate - шаблонный
+bright - яркий
+broad - широкий
+capability - возможность
+complexity - сложности
+decouple - отделить
+despite - несмотря на
+each - каждый
+eliminate - устранить
+encourage - поощрять
+enough - достаточно
+especially - особенно
+evolve - развиваться
+expand - развернуть
+expect - ожидать
+force - сила
+invoke - вызвать
+litter - мусор
+otherwise - в противном случае
+perform - выполнять
+promise - обещание
+robust - надежные
+safety - безопасность
+several - несколько
+significantly - значительно
+simplifies - упрощает
+solve - решить
+such - подобные
+template - шаблон
+throughout - по всей
+unleash - развязать

@@ -55,7 +55,6 @@ figures out - фигурки из
 flexible - гибкий
 force - силу
 guess - думаю
-idempotent - идемпотентом
 incorporate - включить
 inheritance - наследование
 instant - мгновенный

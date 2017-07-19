@@ -20,7 +20,7 @@ public class MakePager {
         /**
          * Number of rows in the table
          */
-        int k = 32;
+        int k = 48;
         /**
          * Number of columns
          */
@@ -34,8 +34,8 @@ public class MakePager {
                 "'>");
         int sz = keys.size();
         /**
-         * Usually in the table is 32 rows and 4 columns
-         * if this is not enough in the table add for a few rows
+         * Usually the table have 32 rows and 4 columns
+         * if this is not enough in the table will be added for a few rows
          */
         if (sz > k*c) {
             int a = sz - k*c + c;
@@ -73,9 +73,8 @@ public class MakePager {
         return sb.toString();
     }
     /**
-     * This method saves dictionary in map to the "HFBook.txt"
-     * This file is in path "target/TranslateServlet-1.0-SNAPSHOT/WEB-INF/lib/HFBook.txt"
-     * The first parameter - number of page on which stopped
+     * This method saves dictionary in map to the file whose path is in parameter 's'
+     * The second parameter - number of page where you are stopped
      * Further method saves map to the file
      */
     public void sendTxt(String s, int numberPage, Map<String,String> map) {
