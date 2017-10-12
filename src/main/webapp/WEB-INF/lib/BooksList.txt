@@ -3,3 +3,4 @@ Marduk Lyrics - Marduk.txt
 Browse Web - Internet.txt
 DeathSpell Omega - DsO.txt
 Spring in Action - SiA.txt
+Angular in Action - AinA.txt

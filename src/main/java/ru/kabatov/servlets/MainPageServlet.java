@@ -24,6 +24,7 @@ public class MainPageServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         s = getServletContext().getRealPath("/WEB-INF/lib/BooksList.txt");
         req.setAttribute("books", BooksList());
+
         RequestDispatcher dispatcher = req.getRequestDispatcher("/views/MainPage.jsp");
         dispatcher.forward(req, resp);
     }

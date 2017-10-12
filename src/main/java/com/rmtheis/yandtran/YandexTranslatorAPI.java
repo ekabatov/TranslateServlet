@@ -51,7 +51,7 @@ public abstract class YandexTranslatorAPI {
 
   /**
    * Sets the referrer field.
-   * @param pKey The referrer.
+   * @param *pKey The referrer.
    */
   public static void setReferrer(final String pReferrer) {
     referrer = pReferrer;

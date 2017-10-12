@@ -15,7 +15,7 @@ import java.util.TreeMap;
 import ru.kabatov.classes.MakePager;
 import ru.kabatov.servlets.TranslateServlet;
 /**
- * Created by РљР°Р±Р°С‚РѕРІ on 20.02.2017.
+ * Created by Кабатов on 20.02.2017.
  */
 public class MakePageServlet extends HttpServlet{
     /**
@@ -80,6 +80,7 @@ public class MakePageServlet extends HttpServlet{
          * method "doPost" uses a method translateText() for translate
          */
         if (req.getParameter("buttonTrans") != null) {
+
             trWord=mk.translateTxt(inputWord);
             map.put(inputWord, trWord);
             inputWord="";
@@ -91,6 +92,13 @@ public class MakePageServlet extends HttpServlet{
         if (req.getParameter("sendToTxt") != null) {
             numberPage = !req.getParameter("nmPage").equals("")?Integer.parseInt(req.getParameter("nmPage")):0;
             mk.sendTxt(s,numberPage,map);
+        }
+        if (req.getParameter("addToTxt") != null) {
+
+            trWord=req.getParameter("trWord");
+            trWord = new String(trWord.getBytes("windows-1252"), "windows-1251");
+            map.put(inputWord, trWord);
+            inputWord="";
         }
         doGet(req, resp);
     }

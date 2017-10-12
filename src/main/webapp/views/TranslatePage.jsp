@@ -1,6 +1,7 @@
 <%@ page language="java" pageEncoding="windows-1251" session="true" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
+<meta content="text/html; charset=windows-1251" http-equiv="content-type">
 <head>
     <title>Google Translate</title>
     <style type=\"text/css\">
@@ -32,7 +33,9 @@
         <input type='submit' value='Translate' id='btn' name='buttonTrans'>
         Translate : <input type='text' name='trWord' id='txt' value='${trWord}'>
         Page : <input type='text' name='nmPage' id='txt' value='${numberPage}'>
-        <input type='submit' value='Save Txt' id='btn' name='sendToTxt'></p>
+        <input type='submit' value='Save Txt' id='btn' name='sendToTxt'>
+        <input type="submit" value="Add Translate" id="btn" name="addToTxt"></p>
+
     ${table}
 </form>
 </body>
