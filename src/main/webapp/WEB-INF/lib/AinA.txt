@@ -1,13 +1,80 @@
-27
+29
 Although - Хотя
 ability - способность
+able - может
+absorbed - впитывается
+adoption - принятие
+allow - разрешить
+along - вместе
+annoy - досадить
 arrangement - расположение
+awry - неправильно
 behave - вести себя
+bind - привязать
+boilerplate - шаблонный
+breeze - ветерок
+certain - определенные
 coherent - Связной
+commitment - обязательство
+conducive - благоприятные
+consume - потреблять
+decision - решение
+disappear - исчезают
+efficiently - эффективно
+effort - усилия
+eliminate - устранить
+embrace - объятия
+emitting - испуская
 entirely - полностью
 exacerbated - обостряется
+exciting - захватывающие
+facilitate - облегчить
+fairly - достаточно
+familiar - знакомы
+feature - характеристика
+fit - подходит
+flimsy - хлипкие
+flip - обратная
+incredibly - невероятно
+inherently - по своей сути
+interaction - взаимодействие
+introduce - ввести
+lay - лежал
+layout - макет
+less - меньше
+leverage - рычаги
+mature - созреть
+mitigate - смягчить
 mostly - в основном
+obviously - очевидно
+outline - контур
+overcome - преодолеть
+own - собственного
+possibilities - возможности
+provide - обеспечить
+reach - достичь
+reinforce - укрепить
+renaissance - возрождение
+require - требует
+rigorous - строгий
+routes - маршруты
 sane - вменяемый
+sense - смысл
+serve - служить
+significantly - значительно
+spend - провести
+stable - стабильный
+succeeded - успешен
+such - подобные
+suppose - предположим
+throughout - по всей
+truly - действительно
+uncommon - редко
+unsung - невоспетые
 upend - перевернуть
 ushered - ввел
+whatever - независимо от
 which - что
+wondering - интересуюсь
+workflow - рабочий процесс
+wrap - обертывание
