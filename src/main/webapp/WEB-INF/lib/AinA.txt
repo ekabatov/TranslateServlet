@@ -1,4 +1,4 @@
-29
+34
 Although - Хотя
 ability - способность
 able - может
@@ -7,9 +7,11 @@ adoption - принятие
 allow - разрешить
 along - вместе
 annoy - досадить
+appear - появляются
 arrangement - расположение
 awry - неправильно
 behave - вести себя
+behavior - поведение
 bind - привязать
 boilerplate - шаблонный
 breeze - ветерок
@@ -17,17 +19,24 @@ certain - определенные
 coherent - Связной
 commitment - обязательство
 conducive - благоприятные
+considerable - значительный
 consume - потреблять
 decision - решение
+define - определить
+depth - глубина
+description - описание
 disappear - исчезают
+divide - разделить
 efficiently - эффективно
 effort - усилия
 eliminate - устранить
 embrace - объятия
 emitting - испуская
 entirely - полностью
+essentially - по существу
 exacerbated - обостряется
 exciting - захватывающие
+explicity - явно
 facilitate - облегчить
 fairly - достаточно
 familiar - знакомы
@@ -35,6 +44,7 @@ feature - характеристика
 fit - подходит
 flimsy - хлипкие
 flip - обратная
+inception - начала
 incredibly - невероятно
 inherently - по своей сути
 interaction - взаимодействие
@@ -46,30 +56,40 @@ leverage - рычаги
 mature - созреть
 mitigate - смягчить
 mostly - в основном
+necessary - надо
 obviously - очевидно
 outline - контур
 overcome - преодолеть
 own - собственного
+persisted - сохраняется
 possibilities - возможности
+promote - поощрять
 provide - обеспечить
 reach - достичь
 reinforce - укрепить
+remain - остаются
 renaissance - возрождение
 require - требует
 rigorous - строгий
 routes - маршруты
 sane - вменяемый
+scaled-down - уменьшенная
 sense - смысл
 serve - служить
 significantly - значительно
+simplified - упрощенный
 spend - провести
 stable - стабильный
+state - состояние
 succeeded - успешен
 such - подобные
 suppose - предположим
+then - тогда
 throughout - по всей
+tie - связь
 truly - действительно
 uncommon - редко
+unfold - разворачиваться
 unsung - невоспетые
 upend - перевернуть
 ushered - ввел
