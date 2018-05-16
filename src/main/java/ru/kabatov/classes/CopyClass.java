@@ -9,13 +9,14 @@ import java.nio.file.Files;
  */
 public class CopyClass {
     public static void main(String[] args) {
-        String[] fileName = new String[6];
+        String[] fileName = new String[7];
         fileName[0]="HFBook.txt";
         fileName[1] = "Internet.txt";
         fileName[2] = "Marduk.txt";
         fileName[3] = "DsO.txt";
         fileName[4] = "SiA.txt";
         fileName[5] = "AinA.txt";
+        fileName[6] = "odoo.txt";
 
         String to = System.getProperty("user.dir")+"/src/main/webapp/WEB-INF/lib/";
         String from = System.getProperty("user.dir")+"/target/TranslateServlet-1.0-SNAPSHOT/WEB-INF/lib/";

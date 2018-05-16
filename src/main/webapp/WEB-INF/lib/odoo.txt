@@ -1,0 +1,45 @@
+180
+ - сосуществовали
+able - может
+approach - подход
+aware - знать
+behave - вести себя
+behavior - поведение
+carry - носить
+certain - определенные
+clarity - ясность
+coexisted - сосуществовали
+concise - краткий
+convenient - удобно
+describe - описать
+drawn - нарисованные
+evaluation - оценка
+exclamation - восклицание
+fill out - заполнить
+finer - тоньше
+guage - манометрическое
+invoice - счет-фактура
+nest - гнездо
+nested - вложенные
+obtained - полученные
+omitted - опущен
+ought - следует
+pivot - стержень
+provide - обеспечить
+require - требует
+retrieved - получены
+robust - надежные
+sake - ради
+seldom - редко
+several - несколько
+severe - тяжелые
+spare - запасные
+stage - этап
+stumble - оступиться
+such - подобные
+suggest - предлагаю
+suggestion - предложение
+toggle - тумблер
+tuple - кортеж
+turn out - получится
+warehouse - склад
