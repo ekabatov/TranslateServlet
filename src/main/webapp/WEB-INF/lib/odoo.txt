@@ -1,5 +1,4 @@
-180
- - сосуществовали
+242
 able - может
 approach - подход
 aware - знать
@@ -11,14 +10,19 @@ clarity - ясность
 coexisted - сосуществовали
 concise - краткий
 convenient - удобно
+derive - вывести
 describe - описать
 drawn - нарисованные
 evaluation - оценка
 exclamation - восклицание
+expect - ожидать
+explain - объяснить
+expose - выставить
 fill out - заполнить
 finer - тоньше
 guage - манометрическое
 invoice - счет-фактура
+maintain - поддерживать
 nest - гнездо
 nested - вложенные
 obtained - полученные
@@ -34,6 +38,7 @@ seldom - редко
 several - несколько
 severe - тяжелые
 spare - запасные
+split - расколоть
 stage - этап
 stumble - оступиться
 such - подобные
@@ -43,3 +48,4 @@ toggle - тумблер
 tuple - кортеж
 turn out - получится
 warehouse - склад
+whitelist - белый

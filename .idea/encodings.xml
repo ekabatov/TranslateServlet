@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/java/ru/kabatov/servlets/MakePageServlet.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/kabatov/servlets/MakePageServlet.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/AinA.txt" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/DsO.txt" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/HFBook.txt" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/Internet.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/Marduk.txt" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/SiA.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/library.txt" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/odoo.txt" charset="windows-1251" />
   </component>
 </project>

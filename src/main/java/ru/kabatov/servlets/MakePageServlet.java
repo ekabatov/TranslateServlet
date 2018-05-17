@@ -15,7 +15,7 @@ import java.util.TreeMap;
 import ru.kabatov.classes.MakePager;
 import ru.kabatov.servlets.TranslateServlet;
 /**
- * Created by Кабатов on 20.02.2017.
+ * Created by РљР°Р±Р°С‚РѕРІ on 20.02.2017.
  */
 public class MakePageServlet extends HttpServlet{
     /**
