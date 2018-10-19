@@ -17,7 +17,6 @@ public class CopyClass {
         fileName[4] = "SiA.txt";
         fileName[5] = "AinA.txt";
         fileName[6] = "odoo.txt";
-        fileName[7] = "Angular.txt";
 
         String to = System.getProperty("user.dir")+"/src/main/webapp/WEB-INF/lib/";
         String from = System.getProperty("user.dir")+"/target/TranslateServlet-1.0-SNAPSHOT/WEB-INF/lib/";
